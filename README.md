@@ -1,5 +1,4 @@
 # YouTube_PlayList
-Creating Clone of Youtube playlist
   In Brief:
 * Android Youtube API Library downloaded from developer.google.com
 * Create an Api key to use
