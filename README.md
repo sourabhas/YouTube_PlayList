@@ -1,6 +1,6 @@
 # YouTube_PlayList
 Creating Clone of Youtube playlist
-Brief:
+  In Brief:
 * Android Youtube API Library downloaded from developer.google.com
 * Create an Api key to use
 * Mainactivity should implement YouTubeBaseActivity
